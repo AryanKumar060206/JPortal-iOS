@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="92" viewBox="0 0 108 92">
+<path d="M54,6 V30" fill="none" stroke="#C8894B" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25,58 a29,17.5 0 1,0 58,0 a29,17.5 0 1,0 -58,0 Z M27.5,38 a12.5,12.5 0 1,0 25,0 a12.5,12.5 0 1,0 -25,0 Z M55.5,38 a12.5,12.5 0 1,0 25,0 a12.5,12.5 0 1,0 -25,0 Z" fill="#72CC6A"/>
+<path d="M42,34 Q42,19 54,19 Q66,19 66,34 Z" fill="#E5484D"/>
+<path d="M40,34 H68 Q68,37 65,37 H43 Q40,37 40,34 Z" fill="#B8323A"/>
+<path d="M31.4,38 a8.6,8.6 0 1,0 17.2,0 a8.6,8.6 0 1,0 -17.2,0 Z" fill="#FFFFFF"/>
+<path d="M59.4,38 a8.6,8.6 0 1,0 17.2,0 a8.6,8.6 0 1,0 -17.2,0 Z" fill="#FFFFFF"/>
+<path d="M36.4,38.4 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0 Z" fill="#0E2214"/>
+<path d="M64.4,38.4 a3.6,3.6 0 1,0 7.2,0 a3.6,3.6 0 1,0 -7.2,0 Z" fill="#0E2214"/>
+<path d="M40.2,36.4 a1.6,1.6 0 1,0 3.2,0 a1.6,1.6 0 1,0 -3.2,0 Z" fill="#FFFFFF"/>
+<path d="M68.2,36.4 a1.6,1.6 0 1,0 3.2,0 a1.6,1.6 0 1,0 -3.2,0 Z" fill="#FFFFFF"/>
+<path d="M45,62 Q49.5,59 54,62 Q58.5,65 63,62" fill="none" stroke="#0E2214" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24,40 Q20,47 24,49 Q28,47 24,40 Z" fill="#7CC4FF"/>
+</svg>
